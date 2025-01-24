@@ -25,7 +25,7 @@ The Gym Management System is designed to streamline gym operations by managing c
 - Admins can manage courses, schedules, and candidates through the admin panel.
 - Users can view schedules and register for courses.
 
-## Documentation
+## Demo
 ![Dmo GIF](project.gif)
 
 
