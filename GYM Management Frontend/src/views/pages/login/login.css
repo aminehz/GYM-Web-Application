@@ -1,0 +1,8 @@
+.bgLogin {
+    background-image: url('../../../../src/assets/images/bgLogin.jpg');
+    background-size: cover; /* Ensures the background image covers the entire area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Ensures the image does not repeat */
+    height: 100vh; /* Make sure it covers the full viewport height */
+  }
+  
